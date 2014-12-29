@@ -1,0 +1,38 @@
+#labels Featured
+== How to Install ==
+
+* For Mozilla Firefox *
+
+     * Download and Install Add-on Greasemonkey https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/ _ _
+     * Once completed you will be required to restart your Firefox
+     * After the restart Firefox, please install the Facebook Auto Like _ https://alf-kusuma.googlecode.com/svn/autolike.user.js _
+     * Open a new page for your Facebook.
+
+* To Chrome *
+
+     * Download and Install Add-on Tampermonkey _ https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo _
+     * Auto Install Facebook Like _ https://alf-kusuma.googlecode.com/svn/autolike.user.js _
+     * Open a new page for your Facebook.
+
+
+*Official Page* : http://www.kakiteng.com/2011/02/auto-like-status-facebook.html
+
+
+
+== Cara Install ==
+
+*Untuk Mozilla Firefox*
+
+    * Download dan Instal Add-on Greasemonkey _ https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/ _
+    * Setelah selesai anda akan di minta merestart Firefox anda
+    * Setelah Firefox di restart, silahkan instal Auto Like Facebook _ https://alf-kusuma.googlecode.com/svn/autolike.user.js _
+    * Buka halaman baru untuk Facebook anda.
+
+*Untuk Chrome*
+
+    * Download dan Instal Add-on Tampermonkey _ https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo _
+    * Instal Auto Like Facebook _ https://alf-kusuma.googlecode.com/svn/autolike.user.js _
+    * Buka halaman baru untuk Facebook anda.
+
+
+*Halaman Resmi* : http://www.kakiteng.com/2011/02/auto-like-status-facebook.html
